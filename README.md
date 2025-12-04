@@ -3,3 +3,4 @@ We proposed a improved yolov8n models, which combines the localwindowattention a
 
 Download the ultralytics and register the modules.
 
+localwindowattention.py and C2f_DynamicConv.py are blocks that improves the capability of YOLOv8n models.
